@@ -3,7 +3,7 @@
  b=12
   c=5
 print(a&b&c)
-#ouput 
+#output 
    #False
 
 #2)
@@ -11,7 +11,7 @@ a=10
 b=12
 c=5
 print(a+b,a//c,a*b,b%c)
-#ouput
+#output
    #22 2 120 2
 
 #3)
@@ -19,7 +19,7 @@ print(a+b,a//c,a*b,b%c)
 b=12
 c=5
 print(a==b,a!=b,a<b,b>=c)
-#ouput 
+#output 
    #False True True True
 
 #4)
